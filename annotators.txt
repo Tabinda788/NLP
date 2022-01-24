@@ -1,0 +1,3 @@
+https://tecoholic.github.io/ner-annotator/
+
+https://github.com/heartexlabs/label-studio
